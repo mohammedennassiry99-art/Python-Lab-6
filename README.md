@@ -1,4 +1,4 @@
-<h1>MOHAMMED ENNASSIRY LAB 6/h1>
+<h1>MOHAMMED ENNASSIRY LAB 6</h1>
 <br/>
 <img width="302" height="178" alt="Etape 1 source code" src="https://github.com/user-attachments/assets/df30e2ce-0e42-494e-9e0b-7a7c6b2c7a3f" />
 <br/>
